@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">New York Times News</string>
+    <string name="linktosite"><a href="https://api.nytimes.com/svc/topstories/v2/science.json?api-key=b3211wQlGGo1bqdLqwZNnXuPDP2k5TDN">Your Domain Name</a></string>
+</resources>
